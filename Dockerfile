@@ -1,2 +1,2 @@
-FROM alpine
+FROM ubuntu
 ENTRYPOINT ["/bin/bash", "-c", "echo hello"]
